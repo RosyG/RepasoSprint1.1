@@ -11,3 +11,4 @@ saludar: function(){
   }
 }
 console.log(lasPadawans.saludar);
+console.log(Object.keys(lasPadawans).lengh);
